@@ -3,6 +3,7 @@
 - This is a Beat Box Player Built using Java.
 - This Project is based on an example form "Head First Java" book by Kathy. I Studied the concept from the book, understood the logic, and 
   then built this project myself to deepen my understanding of Java programming and to reinforce my learning.
+- Uses Swing and AWT for Graphical User Interface.
 ## Features
 - Plays 16 different intruments beat simultaneously.
 - Provides the option to "Save" the beat pattern so that it can be restored later.
