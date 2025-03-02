@@ -9,3 +9,7 @@
 - Provides the option to "Save" the beat pattern so that it can be restored later.
 - Gives the option to change the tempo(increase or decrease) of the beats being played.
 - Plays in loop until user presses stop.
+
+![Beat Box Sc](![Ludo Game Screenshot](https://github.com/user/repo/assets/123456789/example.png)
+)
+
