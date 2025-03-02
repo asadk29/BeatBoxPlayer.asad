@@ -10,6 +10,6 @@
 - Gives the option to change the tempo(increase or decrease) of the beats being played.
 - Plays in loop until user presses stop.
 
-![BeatBox ScreenShot] (https://github.com/user/repo/assets/123456789/example.png)
+![BeatBox SC](https://github.com/user-attachments/assets/d7f09b68-5e88-497b-90d5-fb172ca0ccbf)
 
 
